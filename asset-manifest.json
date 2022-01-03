@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/figma/static/css/main.0e6180db.chunk.css",
-    "main.js": "/figma/static/js/main.4df845fe.chunk.js",
-    "main.js.map": "/figma/static/js/main.4df845fe.chunk.js.map",
+    "main.js": "/figma/static/js/main.a2bf446f.chunk.js",
+    "main.js.map": "/figma/static/js/main.a2bf446f.chunk.js.map",
     "runtime-main.js": "/figma/static/js/runtime-main.ad48ace8.js",
     "runtime-main.js.map": "/figma/static/js/runtime-main.ad48ace8.js.map",
     "static/js/2.c7b39743.chunk.js": "/figma/static/js/2.c7b39743.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.ad48ace8.js",
     "static/js/2.c7b39743.chunk.js",
     "static/css/main.0e6180db.chunk.css",
-    "static/js/main.4df845fe.chunk.js"
+    "static/js/main.a2bf446f.chunk.js"
   ]
 }
